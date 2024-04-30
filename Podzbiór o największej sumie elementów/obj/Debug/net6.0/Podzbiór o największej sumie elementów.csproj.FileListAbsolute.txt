@@ -1,0 +1,14 @@
+C:\Users\kubol\source\repos\Podzbiór o największej sumie elementów\Podzbiór o największej sumie elementów\obj\Debug\net6.0\Podzbiór o największej sumie elementów.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubol\source\repos\Podzbiór o największej sumie elementów\Podzbiór o największej sumie elementów\obj\Debug\net6.0\Podzbiór o największej sumie elementów.AssemblyInfoInputs.cache
+C:\Users\kubol\source\repos\Podzbiór o największej sumie elementów\Podzbiór o największej sumie elementów\obj\Debug\net6.0\Podzbiór o największej sumie elementów.AssemblyInfo.cs
+C:\Users\kubol\source\repos\Podzbiór o największej sumie elementów\Podzbiór o największej sumie elementów\obj\Debug\net6.0\Podzbiór o największej sumie elementów.csproj.CoreCompileInputs.cache
+C:\Users\kubol\source\repos\Podzbiór o największej sumie elementów\Podzbiór o największej sumie elementów\bin\Debug\net6.0\Podzbiór o największej sumie elementów.exe
+C:\Users\kubol\source\repos\Podzbiór o największej sumie elementów\Podzbiór o największej sumie elementów\bin\Debug\net6.0\Podzbiór o największej sumie elementów.deps.json
+C:\Users\kubol\source\repos\Podzbiór o największej sumie elementów\Podzbiór o największej sumie elementów\bin\Debug\net6.0\Podzbiór o największej sumie elementów.runtimeconfig.json
+C:\Users\kubol\source\repos\Podzbiór o największej sumie elementów\Podzbiór o największej sumie elementów\bin\Debug\net6.0\Podzbiór o największej sumie elementów.dll
+C:\Users\kubol\source\repos\Podzbiór o największej sumie elementów\Podzbiór o największej sumie elementów\bin\Debug\net6.0\Podzbiór o największej sumie elementów.pdb
+C:\Users\kubol\source\repos\Podzbiór o największej sumie elementów\Podzbiór o największej sumie elementów\obj\Debug\net6.0\Podzbiór o największej sumie elementów.dll
+C:\Users\kubol\source\repos\Podzbiór o największej sumie elementów\Podzbiór o największej sumie elementów\obj\Debug\net6.0\refint\Podzbiór o największej sumie elementów.dll
+C:\Users\kubol\source\repos\Podzbiór o największej sumie elementów\Podzbiór o największej sumie elementów\obj\Debug\net6.0\Podzbiór o największej sumie elementów.pdb
+C:\Users\kubol\source\repos\Podzbiór o największej sumie elementów\Podzbiór o największej sumie elementów\obj\Debug\net6.0\Podzbiór o największej sumie elementów.genruntimeconfig.cache
+C:\Users\kubol\source\repos\Podzbiór o największej sumie elementów\Podzbiór o największej sumie elementów\obj\Debug\net6.0\ref\Podzbiór o największej sumie elementów.dll

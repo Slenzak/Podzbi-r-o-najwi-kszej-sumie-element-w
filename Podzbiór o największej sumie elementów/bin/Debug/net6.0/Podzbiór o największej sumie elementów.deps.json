@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Podzbiór o największej sumie elementów/1.0.0": {
+        "runtime": {
+          "Podzbiór o największej sumie elementów.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Podzbiór o największej sumie elementów/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
